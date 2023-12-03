@@ -9,9 +9,3 @@ function printClock() {
 }
 
 setInterval(printClock, 1000);
-
-// hot add this folder to perticular git repo
-// git init
-// git add .
-// git commit -m "initial commit"
-// git remote add origin
